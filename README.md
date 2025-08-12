@@ -1,5 +1,7 @@
 ## Astrology Compatibility Tool
 
+\hfill \href{[https://your-live-app-url.com](https://astrologycompatibilitytool.streamlit.app/)}{Live Demo}
+
 Compute and explore astrological compatibility using birth details. Includes a Streamlit UI and CLI tools, detailed charts via `kerykeion`, CSV persistence, and optional S3 uploads.
 
 ### Features
