@@ -1,0 +1,6 @@
+kerykeion
+requests
+pandas
+boto3
+python-dotenv
+streamlit
